@@ -1,4 +1,4 @@
-> VCF to DAT Converter
+# VCF to DAT Converter
 
 ## Usage
 
