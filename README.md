@@ -8,4 +8,4 @@ python3 VCF_TO_DAT_S30.py
 
 ## License
 
-MIT © [Mahdi Khosravi](mahdikhosravi.com)
+MIT © [Mahdi Khosravi](http://mahdikhosravi.com)
